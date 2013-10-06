@@ -1,0 +1,59 @@
+/////////////////////////////////////////////////////////////////////////////
+//                           TRAINING GROUNDS                              //
+-----------------------------------------------------------------------------
+//                                  by                                     //
+//                            <=RD=> Kraska                                //
+/////////////////////////////////////////////////////////////////////////////
+
+September 29, 2003
+Version 1.6.00
+   [New]
+       + Statistics tracking for sniper/duel stations have been added
+       + GravCycle Race has been added (props to [uBp]Striker for designing the layout)
+       + More accurate race timer has been added.  Race times are now 
+         calculated to the nearest 100th of a second
+       + Shrike Duel has been added
+   [Fixes]
+       + Infinate energy Elf exploit fixed (thanks RoyGedhark and Tzipora)
+       + Race entry points have been moved, and the race loby has been removed 
+       + Map modified to allow easier access to dueling area
+       + Ground Dammage will now effect duelers
+       + Mutiple NoFireZones may now overlap without causing problmes
+       + Races have been completly re-programmed to allow multiple types of races
+
+August 25, 2003
+Version 1.5.00
+   [New]
+       + Dueling stations have been added
+       + Standard Duel Type: Favorites are bought automatically       
+       + Additional Duel Type: Shocklance Only Duels
+       + Additional Duel Type: Midair Disk Only Duels
+       + IFF now properly indicate targets and shows what each player is doing.
+   [Fixes]
+       + A bug that caused a perminate elf-gun sound while using the elf gun 
+         in the no fire zone has been fixed
+       + Racers and duelers can no longer be elfed
+       + Concussion gernades can no longer be used in the no fire zone
+       + Shooting a sniper will now result in death
+
+December 15, 2002
+VERSION 1.00
+   [New]
+       + The race now keeps track of your best times
+       + No Fire Zone in race lobby
+       + Waypoint for entrance to race
+   [Fixes]
+       + Racers can no longer be dammaged by other players
+       + Flash Grenades have been banned
+       + An additional 7 starting pads have been added to the race
+       + You can now join the race until the countdown reaches 5
+       + Correct data (mission name, server name, etc) in lobby.gui
+       + Mission now cycles after mission timer ends
+       + 2 people will no longer get stuck in 1 sniper station
+       + Mission ending while race is in progress no longer causes a problem
+
+
+       
+       
+
+
