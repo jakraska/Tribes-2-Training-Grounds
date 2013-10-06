@@ -5,6 +5,16 @@
 //                            <=RD=> Kraska                                //
 /////////////////////////////////////////////////////////////////////////////
 
+A practice gametype complete with Skiing races, various types of duels, 
+Sniping practice, and deathmatch. 
+
+The gametype is completely server side, so place the .vl2 file into the base 
+directory on the server and everything will be all set. No clientside 
+download necessacery.
+
+
+
+
 September 29, 2003
 Version 1.6.00
    [New]
